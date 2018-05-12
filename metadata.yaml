@@ -1,0 +1,43 @@
+_repo: Barbara-Ladd_34270
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ver Beck, Frank
+    aliases:
+    - Beck, Frank Ver
+    - Verbeck, Frank
+    birthdate: 1858
+    deathdate: 1933
+    gutenberg_agent_id: '33253'
+    url: http://www.gutenberg.org/2009/agents/33253
+covers:
+- cover_type: archival
+  image_path: 34270-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Charles George Douglas, Sir
+    - Roberts, Sir Charles George Douglas
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2010-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Connecticut -- Fiction'
+- !lcsh 'Girls -- Fiction'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+title: Barbara Ladd
+url: http://www.gutenberg.org/ebooks/34270
